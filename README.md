@@ -13,6 +13,8 @@ Note: When you make a purchase using these links, a portion of your purchase wil
 
 * [Video Game Programming for Kids](http://www.amazon.com/Video-Game-Programming-Jonathan-Harbour/dp/1435461169/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=0320e4e869522073c5438d3806f73277) by Jonathan S. Harbour
 
+* [JavaScript for Kids: A Playful Introduction to Programming](http://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/1593274084/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=6bcf951285fcdab0e29cb653d652d6ec) by Nick Morgan
+
 * [3D Game Programmig for Kids: Create Interactive Worlds with JavaScript](http://www.amazon.com/Game-Programming-Kids-Interactive-Programmers/dp/1937785440/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=3f56b4507497c59f4ed6ecec3a93f7d4) by Chris Strom
 
 * [Adventures in Minecraft](http://www.amazon.com/Adventures-Minecraft-David-Whale/dp/111894691X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=9da01767bbd5eb732a4ada0504c8a662) by David Whale, Martin O'Hanlon
