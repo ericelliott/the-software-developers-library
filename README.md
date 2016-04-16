@@ -53,13 +53,18 @@ Note: When you make a purchase using these links, a portion of your purchase wil
 
 * [The Art of Computer Programming: Vol. 3](http://www.amazon.com/The-Art-Computer-Programming-Searching/dp/0201896850/)
 
-* [Compilers: Principles, Techniques, and Tools](http://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811/) by Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman
-
-* [Types and Programming Languages](http://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=514c9f15b923f67abcd594a67bf86a75) by Benjamin C. Pierce
 
 * [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Edition-Bentley/dp/0201657880/) by Jon Bentley
 
 * [Artificial Intelligence for Humans: Deep Learning and Neural Networks](http://www.amazon.com/Artificial-Intelligence-Humans-Volume-Learning/dp/1505714346/ref=as_li_ss_tl?ie=UTF8&dpID=510-01XYSGL&dpSrc=sims&preST=_AC_UL160_SR130%2C160_&refRID=08F96STZ9W4R1JA9VQSN&linkCode=ll1&tag=eejs-20&linkId=3a0563d372770cb5b09632c2b3c7e861) by Jeff Heaton
+
+### Compilers
+
+* [Compilers: Principles, Techniques, and Tools](http://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=b05ead9350e6c40d2ad5de0220df93b3) by Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman
+
+* [Types and Programming Languages](http://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=514c9f15b923f67abcd594a67bf86a75) by Benjamin C. Pierce
+
+* [Advanced Topics in Types and Programming Languages](http://www.amazon.com/Advanced-Topics-Types-Programming-Languages/dp/0262162288/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=e4737e44aa17ef3dda7d62c983834cce) by Benjamin C. Pierce
 
 
 ## Productivity & Principles
