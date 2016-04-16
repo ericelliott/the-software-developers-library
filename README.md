@@ -15,6 +15,7 @@ Note: When you make a purchase using these links, a portion of your purchase wil
 
 * [Code: The Hidden Language of Computer Hardware and Software](http://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=6ed1ff0a49fb28eee7b710de5487098c) by Charles Petzold
 
+* [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=93ed30e47f63b051e0d84071cec83fc1) by Douglas R. Hofstadter
 
 ## Software Craftmanship
 
