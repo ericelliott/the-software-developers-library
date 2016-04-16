@@ -9,6 +9,8 @@ Note: When you make a purchase using these links, a portion of your purchase wil
 
 ## For Beginners
 
+* [Super Scratch Programming Adventure! Learn to Program By Making Cool Games](http://www.amazon.com/Super-Scratch-Programming-Adventure-Program/dp/1593274092/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=16addcb2acd2ce7181c55aed391a4b8e) by The LEAD Project
+
 * [Video Game Programming for Kids](http://www.amazon.com/Video-Game-Programming-Jonathan-Harbour/dp/1435461169/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=0320e4e869522073c5438d3806f73277) by Jonathan S. Harbour
 
 * [3D Game Programmig for Kids: Create Interactive Worlds with JavaScript](http://www.amazon.com/Game-Programming-Kids-Interactive-Programmers/dp/1937785440/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=3f56b4507497c59f4ed6ecec3a93f7d4) by Chris Strom
