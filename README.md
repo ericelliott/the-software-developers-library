@@ -8,7 +8,7 @@ Arranged by topic, loosely in learning order.
 
 I learned to code around the same time I learned to read and write. I loved computer games and I wanted to learn how to make my own. I loved games and stories about magic, and computers seemed about as close to magic as you can get. In those days, many computers booted directly into a programming environment, and I took it for granted that if you wanted to create something on a computer, you had to learn to code. My best friend's dad gave me a book designed to teach kids how to make computer games with code and I dove in head first.
 
-Today, we create on computers all the time, and we take computers for granted, but if you're the type of person who likes to take things apart to see how it works, the allure to look under the hood and discover how apps are made can be irresistible and endlessly entertaining.
+Today, we create on computers all the time, and we take computers for granted, but if you're the type of person who likes to take things apart to see how they work, the allure to look under the hood and discover how apps are made can be irresistible and endlessly entertaining.
 
 I have now been chasing this passion for half a lifetime. What started with a love of computer games has become a rewarding career that has enabled me to travel around the world and discover the real magic we can make with software. Along the way, I have been inspired by a lot of other great books.
 
