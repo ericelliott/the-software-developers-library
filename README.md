@@ -7,13 +7,17 @@ Arranged by topic, loosely in learning order.
 Note: When you make a purchase using these links, a portion of your purchase will help train homeless people to code. JSHomes is a not-for-profit organization that works with homeless services and refugee training centers to provide critical job skills to those in need.
 
 
-## For Beginners
+## For Beginners & Kids
 
 * [Super Scratch Programming Adventure! Learn to Program By Making Cool Games](http://www.amazon.com/Super-Scratch-Programming-Adventure-Program/dp/1593274092/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=16addcb2acd2ce7181c55aed391a4b8e) by The LEAD Project
 
 * [Video Game Programming for Kids](http://www.amazon.com/Video-Game-Programming-Jonathan-Harbour/dp/1435461169/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=0320e4e869522073c5438d3806f73277) by Jonathan S. Harbour
 
 * [3D Game Programmig for Kids: Create Interactive Worlds with JavaScript](http://www.amazon.com/Game-Programming-Kids-Interactive-Programmers/dp/1937785440/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=3f56b4507497c59f4ed6ecec3a93f7d4) by Chris Strom
+
+* [Adventures in Minecraft](http://www.amazon.com/Adventures-Minecraft-David-Whale/dp/111894691X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=9da01767bbd5eb732a4ada0504c8a662) by David Whale, Martin O'Hanlon
+
+* [The Game Maker's Apprentice: Game Development for Beginners](http://www.amazon.com/The-Game-Makers-Apprentice-Development/dp/1590596153/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=982ca1338bec7213474fbcac8dc888d6) by Jacob Habgood, Mark Overmars, Phil Wilson
 
 * [Code: The Hidden Language of Computer Hardware and Software](http://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=6ed1ff0a49fb28eee7b710de5487098c) by Charles Petzold
 
