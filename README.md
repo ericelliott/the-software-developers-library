@@ -21,6 +21,8 @@ Note: When you make a purchase using these links, a portion of your purchase wil
 
 * [Coders at Work: Reflections on the Craft of Programming](http://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=ce4891e24cff6af35600086a254a3661) by Peter Seibel
 
+* [Beautiful Code: Leading Programmers Explain How They Think](http://www.amazon.com/Beautiful-Code-Leading-Programmers-Practice/dp/0596510047/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=9584716c6027fccff9c12e866f3353a2) by Andy Oram, Greg Wilson
+
 * [The Pragmatic Programmer](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=e35f3d0046f185b46f379999350eaff3) by Andrew Hunt and David Thomas
 
 * [Clean Code: A Handbook of Agile Software Craftmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=57c53d00417cf5bdb0364370c3202f39) by Robert C. Martin
