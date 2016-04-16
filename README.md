@@ -92,6 +92,8 @@ Note: When you make a purchase using these links, a portion of your purchase wil
 
 * [AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis](http://www.amazon.com/AntiPatterns-Refactoring-Software-Architectures-Projects/dp/0471197130/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=a16d2a25826f74deb9a4030f4f590904) by William J. Brown, Raphael C. Malveau, Hays W. "Skip" McCormick, Thomas J. Mowbray
 
+* [Refactoring: Improving the Design of Existing Code](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=503f5f6539e7c33836f1f848b424295f) by Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, Erich Gamma
+
 * [The Clean Coder: A Code of Conduct for Professional Programmers](http://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073/)
 
 * [Test Driven Development By Example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530/)
