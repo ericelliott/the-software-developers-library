@@ -4,6 +4,9 @@ A treasure trove of books for people who love code. Curated by [Eric Elliott](ht
 
 Arranged by topic, loosely in learning order.
 
+Note: When you make a purchase using these links, a portion of your purchase will help train homeless people to code. JSHomes is a not-for-profit organization that works with homeless services and refugee training centers to provide critical job skills to those in need.
+
+
 ## For Beginners
 
 * [Video Game Programming for Kids](http://www.amazon.com/Video-Game-Programming-Jonathan-Harbour/dp/1435461169/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=0320e4e869522073c5438d3806f73277) by Jonathan S. Harbour
@@ -17,9 +20,18 @@ Arranged by topic, loosely in learning order.
 
 * [The Pragmatic Programmer](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=e35f3d0046f185b46f379999350eaff3) by Andrew Hunt and David Thomas
 
-* [Clean Code: A Handbook of Agile Software Craftmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)
+* [Clean Code: A Handbook of Agile Software Craftmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=57c53d00417cf5bdb0364370c3202f39) by Robert C. Martin
 
-* [Code Complete: A Practical Handbook of Software Construction](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/)
+* [Code Complete: A Practical Handbook of Software Construction](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=155486c68c7371934f98360e0222d7bc) by Steve McConnell
+
+
+## Functional Programming
+
+* [The Little Schemer](http://www.amazon.com/The-Little-Schemer-4th-Edition/dp/0262560992/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=02bdee98582fc8a973db9dff830b6b5d) by by Daniel P. Friedman, Matthias Felleisen, Duane Bibby, Gerald J. Sussman
+
+* [Learn You A Haskell for Great Good](http://www.amazon.com/Learn-You-Haskell-Great-Good/dp/1593272839/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=f37ff4ad70d012fe595558cbc16f183e) by Miran Lipovaca
+
+* [Purely Functional Data Structures](http://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=4b47c3066747c540cf74b295102e0f3e) by Chris Okasaki
 
 
 ## Academic Topics
