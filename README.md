@@ -125,3 +125,8 @@ When you make a purchase using these links, a portion of your purchase will help
 
 * [Test Driven Development By Example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530/)
 
+
+
+## Did I Miss Your Favorite Book?
+
+[Make a suggestion](https://github.com/ericelliott/the-software-developers-library/issues/new?title=Book+Title+Here).
