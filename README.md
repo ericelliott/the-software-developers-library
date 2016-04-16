@@ -64,6 +64,8 @@ Note: When you make a purchase using these links, a portion of your purchase wil
 
 * [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Edition-Bentley/dp/0201657880/) by Jon Bentley
 
+* [Introduction to Graph Theory](http://www.amazon.com/Introduction-Graph-Theory-Dover-Mathematics/dp/0486678709/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=4753d57aa1d223d47ad4a5fd4c57b7d2) by Richard J. Trudeau
+
 * [Artificial Intelligence for Humans: Deep Learning and Neural Networks](http://www.amazon.com/Artificial-Intelligence-Humans-Volume-Learning/dp/1505714346/ref=as_li_ss_tl?ie=UTF8&dpID=510-01XYSGL&dpSrc=sims&preST=_AC_UL160_SR130%2C160_&refRID=08F96STZ9W4R1JA9VQSN&linkCode=ll1&tag=eejs-20&linkId=3a0563d372770cb5b09632c2b3c7e861) by Jeff Heaton
 
 ### Compilers
