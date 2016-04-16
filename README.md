@@ -18,7 +18,7 @@ Note: When you make a purchase using these links, a portion of your purchase wil
 
 ## Software Craftmanship
 
-* [Coders at Work](http://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=ce4891e24cff6af35600086a254a3661) by Peter Seibel
+* [Coders at Work: Reflections on the Craft of Programming](http://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=ce4891e24cff6af35600086a254a3661) by Peter Seibel
 
 * [The Pragmatic Programmer](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=e35f3d0046f185b46f379999350eaff3) by Andrew Hunt and David Thomas
 
