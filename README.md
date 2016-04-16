@@ -33,6 +33,8 @@ Note: When you make a purchase using these links, a portion of your purchase wil
 
 * [Purely Functional Data Structures](http://www.amazon.com/Purely-Functional-Structures-Chris-Okasaki/dp/0521663504/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=4b47c3066747c540cf74b295102e0f3e) by Chris Okasaki
 
+* [Basic Category Theory for Computer Scientists](http://www.amazon.com/Category-Computer-Scientists-Foundations-Computing/dp/0262660717/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=b29a738fb45af42a56ea448708f438c0) by Benjamin C. Pierce
+
 
 ## Academic Topics
 
@@ -52,6 +54,8 @@ Note: When you make a purchase using these links, a portion of your purchase wil
 * [The Art of Computer Programming: Vol. 3](http://www.amazon.com/The-Art-Computer-Programming-Searching/dp/0201896850/)
 
 * [Compilers: Principles, Techniques, and Tools](http://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811/) by Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman
+
+* [Types and Programming Languages](http://www.amazon.com/Types-Programming-Languages-MIT-Press/dp/0262162091/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=514c9f15b923f67abcd594a67bf86a75) by Benjamin C. Pierce
 
 * [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Edition-Bentley/dp/0201657880/) by Jon Bentley
 
