@@ -16,6 +16,8 @@ It is my hope that this collection of some of my favorite programming books will
 
 ~ Eric Elliott
 
+P.S. Everybody learning to code should read [Learn to Code: 13 Tips That Could Save You Years of Effort](https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f)
+
 
 ## For a Good Cause
 
