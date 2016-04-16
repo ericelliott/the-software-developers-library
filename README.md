@@ -62,18 +62,18 @@ Note: When you make a purchase using these links, a portion of your purchase wil
 
 * [The Structure and Interpretation of Computer Programs](http://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c9229d8c79cf8044b3f467dcf7fc3354)
 
-* [Introduction to Algorithms, 3rd Edition](http://www.amazon.com/Introduction-Algorithms-3rd-Edition-Press/dp/0262033844/)
+* [Introduction to Algorithms, 3rd Edition](http://www.amazon.com/Introduction-Algorithms-3rd-Edition-Press/dp/0262033844/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=6cd4795a1defdc493ae88583dcc7ffea) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 
-* [Algorithms](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X/) by Robert Sedgewick
+* [Algorithms](http://www.amazon.com/Algorithms-4th-Edition-Robert-Sedgewick/dp/032157351X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=34295214cd2497b23525e76d24e5134d) by Robert Sedgewick, Kevin Wayne
 
-* [The Art of Computer Programming: Vol. 1](http://www.amazon.com/The-Art-Computer-Programming-Vol/dp/0201896834/) by Donald E Knuth
+* [The Art of Computer Programming: Vol. 1](http://www.amazon.com/The-Art-Computer-Programming-Vol/dp/0201896834/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=eecb59c3dd3b568e860c2f4b6a0564e9) by Donald E Knuth
 
-* [The Art of Computer Programming: Vol. 2](http://www.amazon.com/Art-Computer-Programming-Volume-Seminumerical/dp/0201896842/)
+* [The Art of Computer Programming: Vol. 2](http://www.amazon.com/Art-Computer-Programming-Volume-Seminumerical/dp/0201896842/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=e9cb1b0bb7c748d917adcefbdc1dea93) by Donald E Knuth
 
-* [The Art of Computer Programming: Vol. 3](http://www.amazon.com/The-Art-Computer-Programming-Searching/dp/0201896850/)
+* [The Art of Computer Programming: Vol. 3](http://www.amazon.com/The-Art-Computer-Programming-Searching/dp/0201896850/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=597462f2262f3e6aab618b8f2e51dcad) by Donald E. Knuth
 
 
-* [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Edition-Bentley/dp/0201657880/) by Jon Bentley
+* [Programming Pearls](http://www.amazon.com/Programming-Pearls-2nd-Edition-Bentley/dp/0201657880/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=cd778c0dd861e88f090b877ac06abae4) by Jon Bentley
 
 * [How to Prove it: A Structured Approach](http://www.amazon.com/How-Prove-It-Structured-Approach/dp/0521675995/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=22353b916084ec5671524060c3af13b0) by Daniel J. Velleman
 
@@ -96,7 +96,7 @@ Note: When you make a purchase using these links, a portion of your purchase wil
 
 ## Productivity & Principles
 
-* [The Mythical Man-Month: Essays on Software Engineering](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959/)
+* [The Mythical Man-Month: Essays on Software Engineering](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=635704bb5438d46528e2fc45524cc835) by Frederick P. Brooks Jr.
 
 * [Continuous Delivery](http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/) by Jez Humble & David Farley
 
