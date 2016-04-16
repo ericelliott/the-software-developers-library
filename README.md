@@ -130,6 +130,7 @@ When you make a purchase using these links, a portion of your purchase will help
 
 * [Test Driven Development By Example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=4bdd44ebc587c423a1986285edd66e2c) by Kent Beck
 
+* [Rework](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=fb07bffb3f26458d1b181fe6f26660be) by Jason Fried, David Heinemeier Hansson
 
 
 ## Did I Miss Your Favorite Book?
