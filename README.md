@@ -66,6 +66,8 @@ Note: When you make a purchase using these links, a portion of your purchase wil
 
 * [How to Prove it: A Structured Approach](http://www.amazon.com/How-Prove-It-Structured-Approach/dp/0521675995/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=22353b916084ec5671524060c3af13b0) by Daniel J. Velleman
 
+* [The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](http://www.amazon.com/The-Annotated-Turing-Historic-Computability/dp/0470229055/ref=as_li_ss_tl?ie=UTF8&dpID=51sx1xpVIOL&dpSrc=sims&preST=_AC_UL160_SR107%2C160_&refRID=0H3V56NSRHJC0C36GQD0&linkCode=ll1&tag=eejs-20&linkId=d369bb156ec4cb9f9016d47cebc24aa3) by Charles Petzold
+
 * [Introduction to Graph Theory](http://www.amazon.com/Introduction-Graph-Theory-Dover-Mathematics/dp/0486678709/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=4753d57aa1d223d47ad4a5fd4c57b7d2) by Richard J. Trudeau
 
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](http://www.amazon.com/Paradigms-Artificial-Intelligence-Programming-Studies/dp/1558601910/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=b2a79666d019866e9ce582fc1c514f55) by Peter Norvig
