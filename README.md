@@ -74,10 +74,10 @@ When you make a purchase using these links, a portion of your purchase will help
 
 ## Academic Topics
 
-* [Design Patterns: Elements of Reusable Object Oriented Software](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=as_li_ss_tl?ie=UTF8&dpID=51szD9HC9pL&dpSrc=sims&preST=_AC_UL160_SR127%2C160_&refRID=1M5H8SBQF96ZHXYV1RQ2&linkCode=ll1&tag=eejs-20&linkId=530b7fcb4f0e734b7952559730673cae)
+* [Design Patterns: Elements of Reusable Object Oriented Software](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=as_li_ss_tl?ie=UTF8&dpID=51szD9HC9pL&dpSrc=sims&preST=_AC_UL160_SR127%2C160_&refRID=1M5H8SBQF96ZHXYV1RQ2&linkCode=ll1&tag=eejs-20&linkId=530b7fcb4f0e734b7952559730673cae) by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch
 
 
-* [The Structure and Interpretation of Computer Programs](http://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c9229d8c79cf8044b3f467dcf7fc3354)
+* [The Structure and Interpretation of Computer Programs](http://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c9229d8c79cf8044b3f467dcf7fc3354) by Harold Abelson, Gerald Jay Sussman, Julie Sussman
 
 * [Introduction to Algorithms, 3rd Edition](http://www.amazon.com/Introduction-Algorithms-3rd-Edition-Press/dp/0262033844/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=6cd4795a1defdc493ae88583dcc7ffea) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
 
