@@ -90,6 +90,8 @@ Note: When you make a purchase using these links, a portion of your purchase wil
 
 * [Continuous Delivery](http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/) by Jez Humble & David Farley
 
+* [AntiPatterns: Refactoring Software, Architectures, and Projects in Crisis](http://www.amazon.com/AntiPatterns-Refactoring-Software-Architectures-Projects/dp/0471197130/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=a16d2a25826f74deb9a4030f4f590904) by William J. Brown, Raphael C. Malveau, Hays W. "Skip" McCormick, Thomas J. Mowbray
+
 * [The Clean Coder: A Code of Conduct for Professional Programmers](http://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073/)
 
 * [Test Driven Development By Example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530/)
