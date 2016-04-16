@@ -18,11 +18,19 @@ Note: When you make a purchase using these links, a portion of your purchase wil
 
 ## Software Craftmanship
 
+* [Coders at Work](http://www.amazon.com/Coders-Work-Reflections-Craft-Programming/dp/1430219483/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=ce4891e24cff6af35600086a254a3661) by Peter Seibel
+
 * [The Pragmatic Programmer](http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=e35f3d0046f185b46f379999350eaff3) by Andrew Hunt and David Thomas
 
 * [Clean Code: A Handbook of Agile Software Craftmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=57c53d00417cf5bdb0364370c3202f39) by Robert C. Martin
 
 * [Code Complete: A Practical Handbook of Software Construction](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=155486c68c7371934f98360e0222d7bc) by Steve McConnell
+
+* [Seven Languages in Seven Weeks](http://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=d85311a13116f2aa4e97d60ebdb8fd2f) by Bruce Tate
+
+* [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement](http://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1934356921/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=b18d654eb2fda4c4840e2919e8a55c4a) by Eric Redmond, Jim R. Wilson
+
+* [Seven Cuncurrency Models in Seven Weeks](http://www.amazon.com/Seven-Concurrency-Models-Weeks-Programmers/dp/1937785653/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=8564874935a619d8a8bdd22baeab506b) by Paul Butcher
 
 
 ## Functional Programming
