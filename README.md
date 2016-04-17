@@ -137,7 +137,7 @@ When you make a purchase using these links, a portion of your purchase will help
 
 * [Test Driven Development By Example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=4bdd44ebc587c423a1986285edd66e2c) by Kent Beck
 
-* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=a0f02161c4cba3083fd25d7ecc27a1fd)
+* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=a0f02161c4cba3083fd25d7ecc27a1fd) by Gene Kim, Kevin Behr, George Spafford
 
 
 ## Did I Miss Your Favorite Book?
