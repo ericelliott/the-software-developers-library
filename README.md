@@ -85,6 +85,7 @@ When you make a purchase using these links, a portion of your purchase will help
 
 * [Design Patterns: Elements of Reusable Object Oriented Software](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=as_li_ss_tl?ie=UTF8&dpID=51szD9HC9pL&dpSrc=sims&preST=_AC_UL160_SR127%2C160_&refRID=1M5H8SBQF96ZHXYV1RQ2&linkCode=ll1&tag=eejs-20&linkId=530b7fcb4f0e734b7952559730673cae) AKA the Gang of Four book or the GoF by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch
 
+* [How to Design Programs](http://www.amazon.com/How-Design-Programs-Introduction-Programming/dp/0262062186/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=1ec1b0799f5fa51cf070762f440fda32) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi
 
 * [The Structure and Interpretation of Computer Programs](http://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c9229d8c79cf8044b3f467dcf7fc3354) by Harold Abelson, Gerald Jay Sussman, Julie Sussman
 
@@ -122,6 +123,8 @@ When you make a purchase using these links, a portion of your purchase will help
 
 ## Productivity & Principles
 
+* [Rework](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=fb07bffb3f26458d1b181fe6f26660be) by Jason Fried, David Heinemeier Hansson
+
 * [The Mythical Man-Month: Essays on Software Engineering](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=635704bb5438d46528e2fc45524cc835) by Frederick P. Brooks Jr.
 
 * [Continuous Delivery](http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=c3a14417e3124e233330982128167324) by Jez Humble & David Farley
@@ -134,7 +137,7 @@ When you make a purchase using these links, a portion of your purchase will help
 
 * [Test Driven Development By Example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=4bdd44ebc587c423a1986285edd66e2c) by Kent Beck
 
-* [Rework](http://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=fb07bffb3f26458d1b181fe6f26660be) by Jason Fried, David Heinemeier Hansson
+* [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=a0f02161c4cba3083fd25d7ecc27a1fd)
 
 
 ## Did I Miss Your Favorite Book?
