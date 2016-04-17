@@ -135,6 +135,8 @@ When you make a purchase using these links, a portion of your purchase will help
 
 * [The Clean Coder: A Code of Conduct for Professional Programmers](http://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=677a2ee28efb51d1c3b8392a81efa5a1) by Robert C. Martin
 
+* [The Passionate Programmer: Creating a Remarkable Career in Software Development](http://www.amazon.com/The-Passionate-Programmer-Remarkable-Development/dp/1934356344/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=2d8a96b2cfd6021bcb12e268e0213937) by Chad Fowler
+
 * [Test Driven Development By Example](http://www.amazon.com/Test-Driven-Development-By-Example/dp/0321146530/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=4bdd44ebc587c423a1986285edd66e2c) by Kent Beck
 
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=a0f02161c4cba3083fd25d7ecc27a1fd) by Gene Kim, Kevin Behr, George Spafford
