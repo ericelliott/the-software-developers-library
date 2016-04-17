@@ -79,6 +79,8 @@ When you make a purchase using these links, a portion of your purchase will help
 
 ## Academic Topics
 
+* [The New Turing Omnibus: Sixty-Six Excursions in Computer Science](http://www.amazon.com/New-Turing-Omnibus-Sixty-Six-Excursions/dp/0805071660/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=d4c83e87bc3746de2bc108878dad8e0b) by A. K. Dewdney
+
 * [Design Patterns: Elements of Reusable Object Oriented Software](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=as_li_ss_tl?ie=UTF8&dpID=51szD9HC9pL&dpSrc=sims&preST=_AC_UL160_SR127%2C160_&refRID=1M5H8SBQF96ZHXYV1RQ2&linkCode=ll1&tag=eejs-20&linkId=530b7fcb4f0e734b7952559730673cae) AKA the Gang of Four book or the GoF by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch
 
 
