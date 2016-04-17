@@ -68,6 +68,8 @@ When you make a purchase using these links, a portion of your purchase will help
 
 ## Functional Programming
 
+* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) by Brian Lonsdorf
+
 * [The Little Schemer](http://www.amazon.com/The-Little-Schemer-4th-Edition/dp/0262560992/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=02bdee98582fc8a973db9dff830b6b5d) by by Daniel P. Friedman, Matthias Felleisen, Duane Bibby, Gerald J. Sussman
 
 * [Learn You A Haskell for Great Good](http://www.amazon.com/Learn-You-Haskell-Great-Good/dp/1593272839/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=f37ff4ad70d012fe595558cbc16f183e) by Miran Lipovaca
