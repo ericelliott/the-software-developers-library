@@ -61,7 +61,7 @@ When you make a purchase using these links, a portion of your purchase will help
 
 * [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement](http://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1934356921/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=b18d654eb2fda4c4840e2919e8a55c4a) by Eric Redmond, Jim R. Wilson
 
-* [Seven Cuncurrency Models in Seven Weeks](http://www.amazon.com/Seven-Concurrency-Models-Weeks-Programmers/dp/1937785653/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=8564874935a619d8a8bdd22baeab506b) by Paul Butcher
+* [Seven Concurrency Models in Seven Weeks](http://www.amazon.com/Seven-Concurrency-Models-Weeks-Programmers/dp/1937785653/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=8564874935a619d8a8bdd22baeab506b) by Paul Butcher
 
 * [The C Programming Language](http://www.amazon.com/The-Programming-Language-Brian-Kernighan/dp/0131103628/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=a2dacad1fa8eed0aa0feaf1d54f70410) aka the K&R book by Brian W. Kernighan, Dennis M. Ritchie
 
