@@ -141,6 +141,7 @@ When you make a purchase using these links, a portion of your purchase will help
 
 * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=a0f02161c4cba3083fd25d7ecc27a1fd) by Gene Kim, Kevin Behr, George Spafford
 
+* [The Cathedral & the Bazaar by Eric S. Raymond (ESR) - Musings on Linux and Open Source by an Accidental Revolutionary, 2001](http://www.amazon.com/The-Cathedral-Bazaar-Accidental-Revolutionary/dp/0596001088/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=88c890d2ff7b15942a3021d65b4bce43)
 
 ## Did I Miss Your Favorite Book?
 
