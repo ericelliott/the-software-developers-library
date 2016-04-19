@@ -143,6 +143,8 @@ When you make a purchase using these links, a portion of your purchase will help
 
 * [The Cathedral & the Bazaar by Eric S. Raymond (ESR) - Musings on Linux and Open Source by an Accidental Revolutionary, 2001](http://www.amazon.com/The-Cathedral-Bazaar-Accidental-Revolutionary/dp/0596001088/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=88c890d2ff7b15942a3021d65b4bce43)
 
+* [The Art of Unix Programming](http://www.amazon.com/Programming-Addison-Wesley-Professional-Computng-Series/dp/0131429019/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=fcf3e0f35322604c952cc860d09815c7) by Eric S. Raymond
+
 ## Did I Miss Your Favorite Book?
 
 [Make a suggestion](https://github.com/ericelliott/the-software-developers-library/issues/new?title=Book+Title+Here).
