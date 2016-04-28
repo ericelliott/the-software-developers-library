@@ -57,6 +57,8 @@ When you make a purchase using these links, a portion of your purchase will help
 
 * [Code Complete: A Practical Handbook of Software Construction](http://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=155486c68c7371934f98360e0222d7bc) by Steve McConnell
 
+* [Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems](http://www.amazon.com/gp/product/0814474578/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=7c11d9e624328bb8242dc11e9c73e0d7) by David J Agans
+
 * [Seven Languages in Seven Weeks](http://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=d85311a13116f2aa4e97d60ebdb8fd2f) by Bruce Tate
 
 * [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement](http://www.amazon.com/Seven-Databases-Weeks-Modern-Movement/dp/1934356921/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=eejs-20&linkId=b18d654eb2fda4c4840e2919e8a55c4a) by Eric Redmond, Jim R. Wilson
